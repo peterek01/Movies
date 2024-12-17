@@ -1,11 +1,11 @@
-from storage_json import StorageJson
+from storage.storage_json import StorageJson
 from movie_app import MovieApp
-from storage_csv import StorageCsv
+from storage.storage_csv import StorageCsv
 
 
 def main():
-    # john_storage = StorageJson('john.json')
-    john_storage = StorageCsv('john.csv')
+    john_storage = StorageJson('john.json')
+    # john_storage = StorageCsv('john.csv')
     # peter_storage = StorageJson('peter.json')
     # johanna_storage = StorageJson('johanna.json')
     #

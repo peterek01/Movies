@@ -1,0 +1,27 @@
+{
+    "The Plan": {
+        "year": 2019,
+        "rating": 6.0,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjU3OGY1NTgtZTJhZC00MGZiLWIwMzAtY2RjZTk0MjIwZDk0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Forrest Gump": {
+        "year": 1994,
+        "rating": 8.8,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Titanic": {
+        "year": 1997,
+        "rating": 7.9,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Karate Kid": {
+        "year": 1967,
+        "rating": 6.4,
+        "poster": "N/A"
+    },
+    "The Room": {
+        "year": 2003,
+        "rating": 3.6,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmNkMThiODYtZTAzMC00ODJkLTg5MmEtMWIyMGFlZDlkYmNlXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+}
