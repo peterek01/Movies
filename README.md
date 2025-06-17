@@ -16,5 +16,5 @@ Movie Collection App is a Python-based application for managing your movie colle
 ### 1. Clone the Repository
 Run the following command in your terminal to clone the repository:
 ```bash
-git clone https://github.com/username/Movies.git
+git clone https://github.com/peterek01/Movies.git
 cd Movies
